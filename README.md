@@ -1,2 +1,2 @@
-# YangHuiTriangle
-Console program developed with QT.
+# ***YangHuiTriangle***
+* **项目目的**
